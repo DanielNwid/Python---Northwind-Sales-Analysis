@@ -48,6 +48,8 @@ Customer Analysis:
 ---
 
 **Visualization in Power BI**
+<img width="617" alt="Northwnd" src="https://github.com/user-attachments/assets/3125ffd6-8edb-4f4d-8e77-17d7739f5adc">
+
 
 The Power BI dashboard visualizes key insights from the analysis:
 
@@ -55,7 +57,7 @@ Monthly Order Trend:
   - This line chart shows the number of orders placed each month from July 2013 to April 2015, highlighting peaks and troughs in sales activity.
 
 Revenue Distribution by Customer Segment:
- - A pie chart illustrates the proportion of revenue contributed by each customer segment, with the "High" segment dominating the revenue share.
+ - A pie chart illustrates the proportion of revenue contributed by each customer segment, with the "High" segment(76.07%) dominating the revenue share.
 
 Best-Selling Products:
  - A bar chart lists the top products by sales volume, providing a quick overview of the most popular items.
